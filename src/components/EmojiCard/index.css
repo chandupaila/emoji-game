@@ -1,0 +1,17 @@
+.button {
+  background-color: #ffffff30;
+
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.emoji {
+  width: 80px;
+}
+
+.list {
+  margin-bottom: 10px;
+}

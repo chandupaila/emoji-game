@@ -1,0 +1,25 @@
+* {
+  font-family: roboto;
+}
+
+.bg-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  width: 100%;
+  min-height: 100vh;
+}
+
+.unOrder {
+  width: 50%;
+
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: space-around;
+}
+
+.emoji-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+}

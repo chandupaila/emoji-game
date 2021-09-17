@@ -1,0 +1,36 @@
+.navBar {
+  background-color: #ffffff30;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
+}
+
+.heading {
+  font-family: roboto;
+  color: #ffffff;
+  margin-left: 10px;
+}
+
+.scores-container {
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.score {
+  font-family: roboto;
+  color: #ffffff;
+}
+
+.top {
+  font-family: roboto;
+  color: #ffffff;
+  margin-left: 25px;
+}

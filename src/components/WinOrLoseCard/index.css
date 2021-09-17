@@ -1,0 +1,59 @@
+* {
+  font-family: roboto;
+  color: #ffffff;
+}
+
+.winCard {
+  background-color: #ffffff30;
+  width: 50%;
+  height: 50%;
+}
+
+.happy {
+  width: 230px;
+}
+
+.winCard {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.youWon {
+  font-size: 70px;
+}
+
+.scores {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.number {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.play {
+  background-color: #ffce27;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  border-radius: 9px;
+  color: black;
+  font-weight: 800;
+}
+
+.center {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.winOrLossCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
